@@ -1,14 +1,19 @@
-Cannon is a toolset which is created for educational purpose.
+Cannon is a toolset which is written in python and shell.
+
 It's a fairly simple to use tool which you can choose from Credit card validator to MD5 hash cracker.
+
+This tool/acript was made for the sole purpose of education so thereby bare no liability of the misuse of this tool
 
 INSTALLATION
 
 pkg update && pkg upgrade 
 
-clone if from the repository
+https://github.com/D00Ms-Day/cannon.git
 
-change dir4ctory to cannon
+cd cannon
 
 chmod +x *
+
+pip install -r requirements.txt
 
 ./cannon.sh
